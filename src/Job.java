@@ -13,7 +13,7 @@ public class Job {
 		
 		
 		for(String l : liste) {
-			System.out.println();
+			System.out.println(l);
 		}
 	}
 }
