@@ -5,6 +5,7 @@ public class Job {
 	private String category;
 	
 	
+	//constructeur
 	public Job(String name, String category) {
 		this.name = name;
 		this.category = category;
